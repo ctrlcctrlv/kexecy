@@ -1,1 +1,1 @@
-[kexecy](doc/kexecy.png)
+![kexecy](doc/kexecy.png)
